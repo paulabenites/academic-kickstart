@@ -23,11 +23,11 @@ subtitle = ""
 
   # Background color.
   # color = "navy"
-  
+
   # Background gradient.
   gradient_start = "DarkGreen"
   gradient_end = "ForestGreen"
-  
+
   # Background image.
   # image = "image.jpg"  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
@@ -42,31 +42,19 @@ subtitle = ""
 [advanced]
  # Custom CSS. 
  css_style = ""
- 
+
  # CSS class.
  css_class = ""
 +++
 
-Welcome to the **Academic Kickstart** template!
+I am a Professor at [ESPOL](http://www.espol.edu.ec/) University in Guayaquil, Ecuador, where I lead the *Distributed Systems at ESPOL Lab* (DiSEL) and co-direct the Big Data Research Group. In May 2014, I obtained my PhD in Computer Science at the [University of Illinois at Urbana-Champaign](http://www.cs.illinois.edu). Previously, I received my Master of Science degree from UIUC, funded through a Fulbright Fellowship.
 
-Follow our [Getting Started](https://sourcethemes.com/academic/docs/get-started/) and [Page Builder](https://sourcethemes.com/academic/docs/widgets/) guides to easily personalize the template and then [add your own content](https://sourcethemes.com/academic/docs/managing-content/).
+My main research interests lie in the area of distributed systems, in particular systems used to support Big Data and Cloud Computing applications. At UIUC, I was a member of the [Systems Research Group](http://srg.cs.illinois.edu/), under the guidance of [Prof. Roy H. Campbell](http://cs.illinois.edu/people/faculty/roy-campbell). During my PhD studies, I was a member of the Hadoop Core Team at Yahoo, Inc. (UIUC Research Park) and also worked on several projects with [Prof. Yi Lu](http://simula.csl.illinois.edu/).
 
-For inspiration, check out [the Markdown files](https://sourcethemes.com/academic/docs/install/#demo-content) which power the [personal demo](https://academic-demo.netlify.com/). The easiest way to publish your new site to the internet is with [Netlify](https://sourcethemes.com/academic/docs/deployment/).
+At ESPOL, I am working on several projects related to using in-memory distributed key-value stores as caches in cloud computing environments. I am mostly interested in studying and improving their performance under varying workloads. I also work in the areas of storage workload modeling and scheduling in cloud computing platforms (Hadoop, container-based microservices and serverless FaaS). My work has been funded via industry grants (Google 2016, Microsoft 2017, Google 2018, AT&T Labs 2019).
 
-- [View the documentation](https://sourcethemes.com/academic/docs/)
-- [Ask a question](http://discuss.gohugo.io/)
-- [Request a feature or report a bug](https://github.com/gcushen/hugo-academic/issues)
-- Updating? View the [Update Guide](https://sourcethemes.com/academic/docs/update/) and [Release Notes](https://sourcethemes.com/academic/updates/)
-- Support development of Academic:
-  - [Donate a coffee](https://paypal.me/cushen)
-  - [Become a backer on Patreon](https://www.patreon.com/cushen)
-  - [Decorate your laptop or journal with an Academic sticker](https://www.redbubble.com/people/neutreno/works/34387919-academic)
-  - [Wear the T-shirt](https://academic.threadless.com/)
+I also like to code; in particular, I like to build distributed systems. While at Yahoo, I contributed to the Apache Hadoop [codebase](https://www.google.com.ec/search?q="cristina+l+abad"+site%3Aissues.apache.org). In my free time, I sometimes answer questions on [stackoverflow](https://stackoverflow.com/users/story/2438110).
 
-{{% alert note %}}
-This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
 
-Backgrounds can be applied to any section. Here, the *background* option is set give a *color gradient*.
 
-**To remove this section, delete `content/home/demo.md`.**
-{{% /alert %}}
+You can follow me on [twitter](https://twitter.com/cabad3).
