@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Cristina L. Abad
 
 # Username (this should match the folder name)
 authors:
@@ -9,67 +9,19 @@ authors:
 # Is this the primary user of the site?
 superuser: true
 
-# Role/position
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations
-organizations:
-- name: Stanford University
-  url: ""
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "cabad@fiec.espol.edu.ec"
   
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Researchers
-- Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Professor at [ESPOL](http://www.espol.edu.ec/) University in Guayaquil, Ecuador, where I lead the *Distributed Systems at ESPOL Lab* (DiSEL) and co-direct the Big Data Research Group. In May 2014, I obtained my PhD in Computer Science at the [University of Illinois at Urbana-Champaign](http://www.cs.illinois.edu). Previously, I received my Master of Science degree from UIUC, funded through a Fulbright Fellowship.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+My main research interests lie in the area of distributed systems, in particular systems used to support Big Data and Cloud Computing applications. At UIUC, I was a member of the [Systems Research Group](http://srg.cs.illinois.edu/), under the guidance of [Prof. Roy H. Campbell](http://cs.illinois.edu/people/faculty/roy-campbell). During my PhD studies, I was a member of the Hadoop Core Team at Yahoo, Inc. (UIUC Research Park) and also worked on several projects with [Prof. Yi Lu](http://simula.csl.illinois.edu/).
+
+At ESPOL, I am working on several projects related to using in-memory distributed key-value stores as caches in cloud computing environments. I am mostly interested in studying and improving their performance under varying workloads. I also work in the areas of storage workload modeling and scheduling in cloud computing platforms (Hadoop, container-based microservices and serverless FaaS). My work has been funded via industry grants (Google 2016, Microsoft 2017, Google 2018, AT&T Labs 2019).
+
+I also like to code; in particular, I like to build distributed systems. While at Yahoo, I contributed to the Apache Hadoop [codebase](https://www.google.com.ec/search?q="cristina+l+abad"+site%3Aissues.apache.org). In my free time, I sometimes answer questions on [stackoverflow](https://stackoverflow.com/users/story/2438110).
+
+
+
+You can follow me on [twitter](https://twitter.com/cabad3).
