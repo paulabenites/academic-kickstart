@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
-title = "Selected Keynotes and Invited Talks"
-subtitle = ""
+title = "Talks"
+subtitle = "Selected Keynotes and Invited Talks"
 
 [content]
   # Page type to display. E.g. project.
@@ -21,17 +21,17 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
 
-  # [[content.filter_button]]
-  #   name = "All"
-  #   tag = "*"
+  [[content.filter_button]]
+    name = "All"
+    tag = "*"
 
-  # [[content.filter_button]]
-  #   name = "Deep Learning"
-  #   tag = "Deep Learning"
+  [[content.filter_button]]
+    name = "Deep Learning"
+    tag = "Deep Learning"
 
-  # [[content.filter_button]]
-  #   name = "Other"
-  #   tag = "Demo"
+  [[content.filter_button]]
+    name = "Other"
+    tag = "Demo"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -74,8 +74,8 @@ subtitle = ""
  css_class = ""
 +++
 
-1. "Beyond load balancing" @Large Research, **Vrije Universiteit Amsterdam**, June 12, 2019.
-2. "Caching: Past, Present, Future" @ **18th IEEE International Symposium on Parallel and Distributed Computing (ISPDC 2019)**, June 7th, 2019.
-3. "La importancia de la investigación de calidad en la formación de capital humano" @ **TEDx Peñas**, Noviembre 15, 2018. 
-4. "Workload-optimized autonomic distributed systems" @ Disco Lab, **Technische Universität Kaiserslautern**, April 28, 2017.
-5. "Foro: Las Mujeres de Matilde, conversatorio con el tema *No estamos solas*" @ GirlsInTech Ecuador, May 18th, 2016.
+1. “Beyond load balancing” @Large Research, **Vrije Universiteit Amsterdam**, June 12, 2019.
+2. “Caching: Past, Present, Future” @ **18th IEEE International Symposium on Parallel and Distributed Computing (ISPDC 2019)**, June 7th, 2019.
+3. “La importancia de la investigación de calidad en la formación de capital humano” @ **TEDx Peñas**, Noviembre 15, 2018.
+4. “Workload-optimized autonomic distributed systems” @ Disco Lab, **Technische Universität Kaiserslautern**, April 28, 2017.
+5. “Foro: Las Mujeres de Matilde, conversatorio con el tema *No estamos solas*” @ GirlsInTech Ecuador, May 18th, 2016.
