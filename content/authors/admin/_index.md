@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "cabad@fiec.espol.edu.ec"
+email: ""
   
 ---
 
