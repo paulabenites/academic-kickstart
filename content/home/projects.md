@@ -5,12 +5,13 @@
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 70  # Order that this section will appear.
+weight = 30  # Order that this section will appear.
 
-title = "Current Students"
+title = "Projects"
 subtitle = ""
 
 [content]
+
   # Page type to display. E.g. post, talk, or publication.
   page_type = "post"
 
@@ -67,11 +68,4 @@ subtitle = ""
 
 +++
 
-- [Edwin F. Boza](https://about.me/edwinboza), graduate student, currently working on performance-driven autonomic distributed systems
-- Gustavo  Totoy, undergraduate student, working on self-managing cloud caches and  function scheduling for serverless computing platforms
-- Javier Ron, undergraduate student, currently working on a project for [UCSC's CROSS Center](https://cross.ucsc.edu/cross-2018-gsoc-students/) ([Google Summer of Code 2018](http://noticias.espol.edu.ec/article/dos-polit-cnicos-seleccionados-para-google-summer-code))
-- Johnny Torres, graduate student, working on Social Network data mining
-- Sixto Castro, undergraduate student, working on undergraduate thesis (Methods for making caches resistant to one-timers)
-- José Viteri, undergraduate student, research assistant funded by ESPOL, working on KV-replay
-- Jorge Cedeño, undergraduate student, collaborator
-- Jorge Murillo, collaborator, working on miss rate curve (MRC) profiling for cloud caches
+Lorem ipsum
